@@ -1,4 +1,4 @@
-This is a challenge i decided to complete from frontend mentor a little warm up to get my day started and to practice media queries.
+This is a challenge i decided to complete from frontend mentor as a warm up to get my day started and to practice media queries.
 I created this using HTML and CSS.
 
 
