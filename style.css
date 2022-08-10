@@ -11,7 +11,7 @@ body{
     flex-direction: column;
     align-items: center;
 height: 60%;
-width: 20%;
+width: 300px;
 border-radius: 20px;
 background-color: white;
 }
@@ -55,33 +55,3 @@ font-weight: 700;
     text-align: center;
     padding: 3%;
 }
-
-
-
-@media (max-width: 420px) and (min-width: 320px) {
-    .cardContainer{
-        height: 80%;
-        width: 80%;
-    }
-    .topContent{
-      font-size: 20px;
-    }
-    .bottomContent{
-      font-size: 15px;
-    }
-  }
-
-  @media (max-width: 1279px) and (min-width: 820px) {
-    .cardContainer{
-        height: 60%;
-        width: 40%;
-    }
-    .topContent{
-      padding: 5%;
-      font-size: 20px;
-    }
-    .bottomContent{
-      padding: 5%;
-      font-size: 15px;
-    }
-  }
